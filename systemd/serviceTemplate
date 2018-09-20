@@ -1,0 +1,12 @@
+[Unit]
+Description=Image Robot Spider
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=__path_to_install__/spider.py
+KillMode=process
+#Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
