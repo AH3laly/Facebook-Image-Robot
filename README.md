@@ -17,3 +17,7 @@
 - run spider.py once.
 - Configure the Cron to run <b>publish.py</b> every one hour.
 - You can set images categories for <b>spider.py</b> from <b>category</b> table.
+
+## Live Examble
+See [fb.com/WonderfulPhotoStore Facebook Page](https://www.facebook.com/WonderfulPhotoStore)
+
